@@ -1,0 +1,18 @@
+[08-01-2020]=>{
+    Primeiro dia de Codificação da lógica da aplicação;
+    Criando os modelos de dados;
+    Conexão com o banco de dados (MondoDB);
+    teste de conexão com telas através de rotas;
+},
+[14-01-2020]=>{
+    Segundo dia de Codificação da lógica da aplicação;
+    Finalizando modelo de dados;
+    Criando Controladores;
+    Estabelecendo rotas para cada modelo de dados;
+},
+[29-01-2020]=>{
+    Hoje foi iniciado a contrução da aplicação mobile utilizando react Native para codificar e o genymotion para emular a aplicação;
+    Toda a aplicação está sendo desenvolvida para Android 6.0 tendo em vista os requisitos do cliente;
+    Hoje também foi concertada a api rest de servidor que será responsavel por prover e receber os dados da aplicação;
+    Também hoje foi restaurado a versão e atualizado o repositório do GitHub;
+}
