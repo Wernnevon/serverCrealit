@@ -2,7 +2,7 @@ const express = require("express");
 const routes = express.Router();
 
 routes.get('/', (req, res)=>{
-    return res.sendFile('/home/wernnevon/Documentos/Crealit/ProjetoCrealit/serverCrealit/teste.html')
+    return res.send('API ta ON')
 });
 
 // Rotas para Personagem;

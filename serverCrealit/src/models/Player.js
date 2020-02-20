@@ -22,6 +22,10 @@ const PlayerSchema = new mongoose.Schema({
         type: String,
         require: true,
     },
+    email:{
+        type: String,
+        required: true
+    },
     dateSubscribe:{
         type: Date,
         default: Date.now,
